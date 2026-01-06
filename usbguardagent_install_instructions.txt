@@ -1,0 +1,5 @@
+USBGuard.Agent (native) install notes
+
+- The agent requires administrative privileges.
+- Recommended install: install as Windows Service or schedule at startup.
+- Ensure the correct Windows SDK and runtime are available on target machines.
